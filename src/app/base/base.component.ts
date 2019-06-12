@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppBaseComponent {
   title = 'project-base';
+  texto = 'toguro';
 }
